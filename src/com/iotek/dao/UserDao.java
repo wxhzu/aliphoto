@@ -1,6 +1,6 @@
 package com.iotek.dao;
 /**
- * æˆ‘æ”¹è¿‡çš„ç¼–ç 
+ * ÕâÊÇUserµÄdao
  * @author Administrator
  *
  */
